@@ -1,0 +1,38 @@
+h1
+{
+    text-align:center;
+}
+body
+{
+    background-color:skyblue;
+}
+h2
+{
+    text-align:center;
+}
+button
+{
+    width:40cm;
+    height:2cm;
+    border-radius:10px;
+    background-color:seashell;
+    color:blue;
+}
+#encode-blue:hover
+{
+    background-color:blue;
+    color:white;
+}
+#encode-blue:active
+{
+    background-color: red;
+}
+#decode-red:hover
+{
+    background-color: red;
+    color:white;
+}
+#decode-red:active
+{
+    background-color:gray;
+}

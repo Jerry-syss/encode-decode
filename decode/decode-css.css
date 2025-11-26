@@ -1,0 +1,58 @@
+body
+{
+    background-color: red;
+}
+h1
+{
+    text-align:center;
+}
+#textarea1
+{
+    width:40cm;
+    height:8cm;
+}
+#textarea2
+{
+    width:40cm;
+    height:8cm;
+}
+#button-decodeuri
+{
+    width:13cm;
+    height:1cm;
+}
+#button-decodeuricomponent
+{
+    width:18cm;
+    height:1cm;
+}
+#encode
+{
+    width:40cm;
+    height:1cm;
+}
+#button-reset
+{
+    width:8.6cm;
+    height:1cm;
+}
+#button-home
+{
+    width:2cm;
+    height:1cm;
+}
+button
+{
+    border-radius:10px;
+    background-color:red;
+    color:grey;
+}
+button:hover
+{
+    background-color:grey;
+    color:red;
+}
+button:active
+{
+    background-color:blue;
+}
