@@ -10,9 +10,16 @@ h2
 {
     text-align:center;
 }
+.container
+{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    flex-wrap: wrap;
+}
 button
 {
-    width:40cm;
+    width: 20cm;
     height:2cm;
     border-radius:10px;
     background-color:seashell;
